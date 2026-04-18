@@ -67,7 +67,7 @@ This Rock-Paper-Scissors program was developed to:
 
 ## 🚀 Future Improvements
 
-Beberapa ide pengembangan:
+Upcoming enhancements for this project:
 * Adding a persistent score tracking system
 * Implementing a Graphical User Interface (GUI) using Tkinter or PyQt
 
